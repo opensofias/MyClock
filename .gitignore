@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/build/
+nbproject/private/private.xml
+nbproject/private/private.properties

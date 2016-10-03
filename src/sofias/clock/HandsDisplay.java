@@ -12,13 +12,13 @@ public class HandsDisplay extends JPanel
 {
 	
 	private int diameter = 1024;
-	private int handSize = 16 ;
-	private int grid = 24;
+	private final int handSize = 16 ;
+	private final int grid = 24;
 	private double time, shrinkage;
 	
-	private int [] format;
+	private final int [] format;
 	
-	private Color color, bgcolor;
+	private final Color color, bgcolor;
 	
 	Graphics gfx;
 	
